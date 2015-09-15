@@ -1,2 +1,3 @@
 # creepy-octo-capsicum
-coc
+My first reposotory on github
+i love tea
